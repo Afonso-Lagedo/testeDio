@@ -1,0 +1,8 @@
+#install
+npm install -g http-serve
+
+#install in project
+http-server
+
+#run
+http-serve PASTA
